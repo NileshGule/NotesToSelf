@@ -9,3 +9,8 @@ Markdown cheetsheets
 - [Squareshape Markdown cheatsheet](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 
 ***
+
+## Misc
+
+- [Take screenshot using Surface Book 2](https://www.onmsft.com/news/taking-screenshot-windows-10-surface-surface-book)
+- [Take screenshot with Windows 10 Surface device](https://blogs.windows.com/devices/2015/11/16/how-to-take-a-screenshot-on-your-windows-10-surface-device/)
