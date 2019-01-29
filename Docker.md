@@ -6,6 +6,7 @@ This page contains different resources related to Docker
 - [Google Cloud post on best practices for building containers](https://cloud.google.com/solutions/best-practices-for-building-containers)
 - [Wintellect blog on Security best practices for Docker images](https://www.wintellect.com/security-best-practices-for-docker-images/)
 - [Container journal post on 5 Docker best practices](https://containerjournal.com/2016/03/21/5-docker-best-practices-follow/)
+- [20 Docker commands use cases for developers](https://dev.to/alex_barashkov/20-docker-commands-use-cases-for-developers-2d9g)
 
 ## Dockerfile best practices
 
