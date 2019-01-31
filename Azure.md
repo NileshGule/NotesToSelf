@@ -28,3 +28,5 @@ This page is for different resources related to Azure
 
 - [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
 - [Michael Crump Azure Tips and Tricks](https://www.michaelcrump.net/azure-tips-and-tricks-complete-list/)
+- [Sam Smith's blog about learning Azure](https://samlearnsazure.blog/)
+- [Azure Citadel - A community driven site devoted to getting hands on & learning Azure](https://azurecitadel.com/)
