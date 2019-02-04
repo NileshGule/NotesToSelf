@@ -3,6 +3,11 @@
 This page is for different resources related to Azure
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Azure VM Chooser - A site created by Microsoft employee to help choose right VM based on workload](azurevmchooser.kves.be)
+    - VM T-shirt sizes finder
+    - Data Disk Configuration
+    - Bulk uploader
+    - VM Optimizer
 
 ---
 
