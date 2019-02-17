@@ -10,7 +10,7 @@ This page contains resources related to public speaking.
 
 ## Tips for public speaking
 
-*TBD*
+- [Nina Zakharenko's ultimate guide to memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
 
 ***
 
