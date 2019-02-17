@@ -4,7 +4,8 @@ This page contains resources related to public speaking.
 
 ## Call for papers
 
-[CallingAllPapers.com](CalligAllPapers.com) - contains the list of currently open **Call for Papers**
+- [CallingAllPapers.com](CalligAllPapers.com) - contains the list of currently open **Call for Papers**
+- [Papercall](https://www.papercall.io/)
 
 ***
 
@@ -24,8 +25,21 @@ This page contains resources related to public speaking.
 
 ***
 
+## Presentation Templates
+
+- [Slides Carnival - free templates](https://www.slidescarnival.com)
+- [carbon.now.sh - format code for presentation](https://carbon.now.sh/)
+- [Noun project - Free Icons](https://thenounproject.com)
+- [Unsplash - free images](https://unsplash.com)
+
+***
+
 ## Zooming content / tools
 
 - [Zoom and Magnify desktop apps in Windows and Mac](https://www.groovypost.com/howto/zoom-magnify-desktop-apps-windows-10-macos/)
-- [Windows Magnifier] (https://support.microsoft.com/en-sg/help/11542/windows-use-magnifier)
+- [Windows Magnifier](https://support.microsoft.com/en-sg/help/11542/windows-use-magnifier)
 - [Screen zoom and annotation using `ZoomIt`](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
+***
+
+[Mindmeister](https://www.mindmeister.com)
