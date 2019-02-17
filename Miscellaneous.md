@@ -8,6 +8,8 @@ Markdown cheetsheets
 - [Markdown guide cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Squareshape Markdown cheatsheet](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
 
+- [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+
 ***
 
 ## Misc
