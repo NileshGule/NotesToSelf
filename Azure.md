@@ -8,6 +8,7 @@ This page is for different resources related to Azure
     - Data Disk Configuration
     - Bulk uploader
     - VM Optimizer
+- [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 
 ---
 
