@@ -20,3 +20,4 @@ This page contains different resources related to Docker
 ## Docker and DevOps
 
 - [Use continerized services in build pipelines](https://blogs.msdn.microsoft.com/devops/2019/01/23/using-containerized-services-in-your-pipeline/?wt.mc_id=AID723316_QSG_SCL_316763&utm_source=t.co&utm_medium=referral)
+- [Continuous deploy Docker containers on Azure App Service](https://medium.com/devopslinks/build-run-and-continuously-deploy-docker-containers-on-azure-app-service-83974329e9d6)
