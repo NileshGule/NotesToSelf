@@ -16,6 +16,11 @@ Markdown cheetsheets
 
 - [Take screenshot using Surface Book 2](https://www.onmsft.com/news/taking-screenshot-windows-10-surface-surface-book)
 - [Take screenshot with Windows 10 Surface device](https://blogs.windows.com/devices/2015/11/16/how-to-take-a-screenshot-on-your-windows-10-surface-device/)
+- [Social media Unicode text format](http://qaz.wtf/u/convert.cgi?text=Azure+Security+Center+-+The+Ultimate+Security+Arsenal)
+- [Meme generator](https://imgflip.com/memegenerator)
+- [Meme maker](https://www.kapwing.com/meme-maker)
+- [Image chef](http://www.imagechef.com/ic/final_widget.jsp)
+- [Make a meme](https://makeameme.org/memegenerator)
 
 ***
 
