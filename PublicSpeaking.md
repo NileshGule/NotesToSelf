@@ -6,6 +6,7 @@ This page contains resources related to public speaking.
 
 - [CallingAllPapers.com](CalligAllPapers.com) - contains the list of currently open **Call for Papers**
 - [Papercall](https://www.papercall.io/)
+- [CPF Exchange](https://cfp.exchange/)
 
 ***
 
