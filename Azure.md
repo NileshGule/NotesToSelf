@@ -9,6 +9,7 @@ This page is for different resources related to Azure
     - Bulk uploader
     - VM Optimizer
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+- [Azure Service Explorer](https://nnmer.github.io/azure-services-map/dist/)
 
 ---
 
