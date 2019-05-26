@@ -28,3 +28,5 @@ Markdown cheetsheets
 
 - [Jessica Deen MacOS Badass Terminal](https://jessicadeen.com/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/)
 - [Jessica Deen WSL Badass Terminal](https://jessicadeen.com/badass-terminal-fcu-wsl-edition-oh-my-zsh-powerlevel9k-tmux-and-more/)
+- [PowerShell and Cmder with Posh-git, Oh-My-Posh & Powerline](https://gist.github.com/jchandra74/5b0c94385175c7a8d1cb39bc5157365e)
+- [Fluet-terminal](https://github.com/felixse/FluentTerminal/blob/master/README.md)
