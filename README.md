@@ -4,6 +4,7 @@ This repository contains useful links for self reference. These are links which 
 
 - [Public Speaking](PublicSpeaking.md)
 - [Azure](Azure.md)
+- [AWS](AWS.md)
 - [Docker](Docker.md)
 - [Kubernetes](Kubernetes.md)
 - [Microservices](Microservices.md)
