@@ -4,10 +4,10 @@ This page is for different resources related to Azure
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure VM Chooser - A site created by Microsoft employee to help choose right VM based on workload](azurevmchooser.kves.be)
-    - VM T-shirt sizes finder
-    - Data Disk Configuration
-    - Bulk uploader
-    - VM Optimizer
+  - VM T-shirt sizes finder
+  - Data Disk Configuration
+  - Bulk uploader
+  - VM Optimizer
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 - [Azure Service Explorer](https://nnmer.github.io/azure-services-map/dist/)
 
@@ -37,6 +37,7 @@ This page is for different resources related to Azure
 - [Michael Crump Azure Tips and Tricks](https://www.michaelcrump.net/azure-tips-and-tricks-complete-list/)
 - [Sam Smith's blog about learning Azure](https://samlearnsazure.blog/)
 - [Azure Citadel - A community driven site devoted to getting hands on & learning Azure](https://azurecitadel.com/)
+- [Cloud native show](https://aka.ms/cloudnativeshow)
 
 ---
 
