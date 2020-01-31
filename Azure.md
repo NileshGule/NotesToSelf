@@ -44,3 +44,7 @@ This page is for different resources related to Azure
 ## Reference applications / examples
 
 - [Josh Long's 6 part series on Bootiful Azure introducing Microsoft Azure to Spring Developers](https://spring.io/blog/2019/01/03/bootiful-azure-taking-your-first-steps-with-microsoft-azure-1-6)
+
+## Azure App Services
+
+- [Deploy containerized apps to Azure Web App for containers](https://chrissainty.com/containerising-blazor-applications-with-docker-deploying-containerised-apps-to-azure-web-app-for-containers/)
