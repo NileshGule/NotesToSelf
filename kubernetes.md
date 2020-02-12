@@ -9,3 +9,6 @@ This page contains resources related to Kubernetes
 - [Strimzi kafka series](https://strimzi.io/2019/04/17/accessing-kafka-part-1.html)
 - [Application process management patterns for Kubernetes](https://www.magalix.com/blog/kubernetes-patterns-application-process-management-1)
 - [Kubernetes Icons](https://docs.google.com/presentation/d/15h_MHjR2fzXIiGZniUdHok_FP07u1L8MAX5cN1r0j4U/edit#slide=id.g3375c55830_0_0)
+- Azure Kubernetes Security Best practices
+  - [Part 1 - Cluster Design](https://www.stackrox.com/post/2020/01/azure-kubernetes-aks-security-best-practices-part-1-of-4/)
+  - [Part 2 - Networking](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4)
