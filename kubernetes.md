@@ -12,3 +12,10 @@ This page contains resources related to Kubernetes
 - Azure Kubernetes Security Best practices
   - [Part 1 - Cluster Design](https://www.stackrox.com/post/2020/01/azure-kubernetes-aks-security-best-practices-part-1-of-4/)
   - [Part 2 - Networking](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4)
+- [Master list of Kubernetes learning resources](https://logz.io/blog/resources-learn-kubernetes/)
+
+## CKAD resources
+
+- [CKAD & CKA exam tips by Abdennour Toumi](https://medium.com/faun/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
+- [CKAD & CKA exam tips by Anh Dang](https://medium.com/chotot/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
+- [CKAD experience by Atharva Chauthaiwale](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
