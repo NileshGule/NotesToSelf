@@ -10,7 +10,7 @@ Markdown cheetsheets
 
 - [Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
 
-***
+---
 
 ## Misc
 
@@ -21,8 +21,9 @@ Markdown cheetsheets
 - [Meme maker](https://www.kapwing.com/meme-maker)
 - [Image chef](http://www.imagechef.com/ic/final_widget.jsp)
 - [Make a meme](https://makeameme.org/memegenerator)
+- [Check internet speed](https://fast.com)
 
-***
+---
 
 ## Machine setup
 
