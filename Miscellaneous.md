@@ -31,3 +31,7 @@ Markdown cheetsheets
 - [Jessica Deen WSL Badass Terminal](https://jessicadeen.com/badass-terminal-fcu-wsl-edition-oh-my-zsh-powerlevel9k-tmux-and-more/)
 - [PowerShell and Cmder with Posh-git, Oh-My-Posh & Powerline](https://gist.github.com/jchandra74/5b0c94385175c7a8d1cb39bc5157365e)
 - [Fluet-terminal](https://github.com/felixse/FluentTerminal/blob/master/README.md)
+
+## Video Recording / Screen casts
+
+- [Screencasting tips & best practices](https://www.screencastify.com/blog/screencasting-tips-best-practices)
