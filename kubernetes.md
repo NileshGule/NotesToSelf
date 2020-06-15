@@ -14,6 +14,7 @@ This page contains resources related to Kubernetes
   - [Part 2 - Networking](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4)
 - [Master list of Kubernetes learning resources](https://logz.io/blog/resources-learn-kubernetes/)
 - [Awesome Kubernetes Resources](https://github.com/ramitsurana/awesome-kubernetes#Docker)
+- [Lessons learnt running k8s for 2 years](https://coderanger.net/lessons-learned/)
 
 ## CKAD resources
 
