@@ -48,3 +48,8 @@ This page is for different resources related to Azure
 ## Azure App Services
 
 - [Deploy containerized apps to Azure Web App for containers](https://chrissainty.com/containerising-blazor-applications-with-docker-deploying-containerised-apps-to-azure-web-app-for-containers/)
+
+
+## Certifications / Exam Prep
+
+- [AZ-303 Azure Architect Study Guide](https://www.thomasmaurer.ch/2020/03/az-303-study-guide-azure-architect-technologies/)
