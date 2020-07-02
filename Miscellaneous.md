@@ -36,3 +36,7 @@ Markdown cheetsheets
 
 - [Screencasting tips & best practices](https://www.screencastify.com/blog/screencasting-tips-best-practices)
 - [OBS Setup for online meetup with Skype](https://www.henkboelman.com/articles/online-meetups-with-obs-and-skype/?ocid=AID3011736_TWITTER_oo_spl100001245340267)
+
+## Random
+
+- [System design and object oriented Problems for interview](https://dzone.com/articles/21-object-oriented-and-system-design-problems-to-p)
