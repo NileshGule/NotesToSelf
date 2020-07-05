@@ -49,6 +49,7 @@ This page is for different resources related to Azure
 
 - [Deploy containerized apps to Azure Web App for containers](https://chrissainty.com/containerising-blazor-applications-with-docker-deploying-containerised-apps-to-azure-web-app-for-containers/)
 
+- [Free TLS / SSL Certificates on Azure App Service](https://dev.to/azure/configuring-the-free-tls-ssl-certificates-on-azure-app-service-j2a)
 
 ## Certifications / Exam Prep
 
