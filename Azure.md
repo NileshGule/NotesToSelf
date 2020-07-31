@@ -38,6 +38,8 @@ This page is for different resources related to Azure
 - [Sam Smith's blog about learning Azure](https://samlearnsazure.blog/)
 - [Azure Citadel - A community driven site devoted to getting hands on & learning Azure](https://azurecitadel.com/)
 - [Cloud native show](https://aka.ms/cloudnativeshow)
+- [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
+- [Azure Charts](https://azurecharts.com)
 
 ---
 
@@ -54,3 +56,7 @@ This page is for different resources related to Azure
 ## Certifications / Exam Prep
 
 - [AZ-303 Azure Architect Study Guide](https://www.thomasmaurer.ch/2020/03/az-303-study-guide-azure-architect-technologies/)
+
+## Azure SQL
+
+[SQL Server and Azure SQL Labs and Workshops](https://aka.ms/sqlworkshops)
