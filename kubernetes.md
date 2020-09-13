@@ -21,3 +21,9 @@ This page contains resources related to Kubernetes
 - [CKAD & CKA exam tips by Abdennour Toumi](https://medium.com/faun/my-story-towards-cka-ckad-and-some-tips-daf495e711a9)
 - [CKAD & CKA exam tips by Anh Dang](https://medium.com/chotot/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e)
 - [CKAD experience by Atharva Chauthaiwale](https://www.linkedin.com/pulse/my-ckad-exam-experience-atharva-chauthaiwale/)
+
+---
+
+## miscelaneous
+
+- [Dapr resources](https://www.theurlist.com/dotnet-dapr)
