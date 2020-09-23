@@ -15,6 +15,7 @@ This page contains resources related to Kubernetes
 - [Master list of Kubernetes learning resources](https://logz.io/blog/resources-learn-kubernetes/)
 - [Awesome Kubernetes Resources](https://github.com/ramitsurana/awesome-kubernetes#Docker)
 - [Lessons learnt running k8s for 2 years](https://coderanger.net/lessons-learned/)
+- [Confidential Compute on AKS](aka.ms/accsamples)
 
 ## CKAD resources
 
