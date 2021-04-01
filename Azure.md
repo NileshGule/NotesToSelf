@@ -60,3 +60,7 @@ This page is for different resources related to Azure
 ## Azure SQL
 
 [SQL Server and Azure SQL Labs and Workshops](https://aka.ms/sqlworkshops)
+
+## Database Migrations
+- [Oracle to Postgres Migration guide](https://github.com/microsoft/OrcasNinjaTeam/blob/master/Oracle%20to%20PostgreSQL%20Migration%20Guide/Oracle%20to%20Azure%20Database%20for%20PostgreSQL%20Migration%20Guide.pdf)
+- [Blog post on Oracle to Postgres Migration](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/new-oracle-to-postgres-migration-guide-for-azure/ba-p/2055303)
