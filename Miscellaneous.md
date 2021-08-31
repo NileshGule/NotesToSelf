@@ -37,6 +37,7 @@ Markdown cheetsheets
 
 - [Screencasting tips & best practices](https://www.screencastify.com/blog/screencasting-tips-best-practices)
 - [OBS Setup for online meetup with Skype](https://www.henkboelman.com/articles/online-meetups-with-obs-and-skype/?ocid=AID3011736_TWITTER_oo_spl100001245340267)
+- [Subtitle translator](https://subtitlestranslator.com/en/)
 
 ## Random
 
