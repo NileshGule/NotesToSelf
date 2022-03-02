@@ -11,3 +11,5 @@
 - [Practical ASPNetCore](https://github.com/dodyg/practical-aspnetcore)
 - [Devmentors - Pacco](https://github.com/devmentors/Pacco)
 - [Microsoft - dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts)
+- [Awesome Microservices.net](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)
+- [Distributed .Net core](https://www.youtube.com/playlist?list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
