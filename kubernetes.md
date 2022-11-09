@@ -29,3 +29,4 @@ This page contains resources related to Kubernetes
 
 - [Dapr resources](https://www.theurlist.com/dotnet-dapr)
 - [Automated MySQL backup](https://github.com/benjamin-maynard/kubernetes-cloud-mysql-backup)
+- [Kubernetes Community icons](https://github.com/kubernetes/community/tree/master/icons)

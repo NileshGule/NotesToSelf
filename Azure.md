@@ -40,6 +40,8 @@ This page is for different resources related to Azure
 - [Cloud native show](https://aka.ms/cloudnativeshow)
 - [Azure Info Hub](https://azureinfohub.azurewebsites.net/)
 - [Azure Charts](https://azurecharts.com)
+- [Azure Icons by David Summers](https://github.com/David-Summers/Azure-Design)
+- [Official Azure Icons set](http://code.benco.io/icon-collection/azure-icons/)
 
 ---
 
@@ -62,5 +64,6 @@ This page is for different resources related to Azure
 [SQL Server and Azure SQL Labs and Workshops](https://aka.ms/sqlworkshops)
 
 ## Database Migrations
+
 - [Oracle to Postgres Migration guide](https://github.com/microsoft/OrcasNinjaTeam/blob/master/Oracle%20to%20PostgreSQL%20Migration%20Guide/Oracle%20to%20Azure%20Database%20for%20PostgreSQL%20Migration%20Guide.pdf)
 - [Blog post on Oracle to Postgres Migration](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/new-oracle-to-postgres-migration-guide-for-azure/ba-p/2055303)
